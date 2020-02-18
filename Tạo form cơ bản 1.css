@@ -1,0 +1,14 @@
+.div1{
+    border-style: solid;
+    border-color: aquamarine;
+    border-width: 5px;
+    width: 400px;
+}
+.div2{
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+}
+.t1{
+    vertical-align: top;
+}
